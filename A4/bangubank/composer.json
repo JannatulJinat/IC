@@ -1,0 +1,21 @@
+{
+    "name": "jinat/bangubank",
+    "description": "IC assignment 04",
+    "authors": [
+        {
+            "name": "Jannatul Jinat",
+            "email": "jinat1270@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Session\\": "session/"
+
+        },
+        "files":[
+            "helpers.php"
+        ]
+    }
+}
