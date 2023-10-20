@@ -1,0 +1,39 @@
+{
+       "name":"Jannatul Jinat",
+       "email":"jinat1270@gmail.com",
+       "githubLink":"",
+       "linkedinLink":"",
+       "phoneNumber":"",
+       "education":{
+          "BSc":"Ahsanullah University of Science & Technology",
+          "HSC":"Motijheel Ideal College",
+          "SSC":"Motijheel Govt. Girls High School"
+       },
+       "schoolingYear":{
+          "BSc":"2016-2021",
+          "HSC":"2015",
+          "SSC":"2013"
+       },
+       "result":{
+          "BSc":"3.53 out of 4.00",
+          "HSC":"5.00 out of 5.00",
+          "SSC":"5.00 out of 5.00"
+       },
+       "locationOfInstitute":{
+          "BSc":"Dhaka, Bangladesh",
+          "HSC":"Dhaka, Bangladesh",
+          "SSC":"Dhaka, Bangladesh"
+       },
+       "skill":{
+          "Scripting Language":"php, Groovy",
+          "Programming Language":"C, C++, Java, Python",
+          "Framework":"Struts",
+          "Web & Database":"HTML, CSS, Bootstrap, MYSQL",
+          "Others":"Git, Linux"
+       },
+       "research":{
+          "title":"Predicting Ad Liking by Analyzing Facial Responses to Ads",
+          "areaOfStudy":"Convolutional Neural Network, Transfer Learning",
+          "githubLink":""
+       }
+}

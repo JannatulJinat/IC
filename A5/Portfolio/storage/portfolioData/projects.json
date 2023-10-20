@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Library Management System",
+        "image": "/images/P1.png",
+        "details": "Language- Java Swing |Database- sqlite |IDE- Netbeans\nFeatures:\nUser Authentication\nPassword Retrieve\nAdd new books and students\nStudent can issue book\nReturn issued books\nStatistics",
+        "githubLink": "https://github.com/JannatulJinat/Library-Management-System"
+    },
+    {
+        "id": 2,
+        "title": "PopCornTime",
+        "image": "/images/P2.png",
+        "details": "Language- C# |Database- mysql |IDE- VSCODE\nFeatures:\nUser Authentication\nPassword Retrieve\nMovie Ticket booking",
+        "githubLink": "https://github.com/JannatulJinat/PopCornTime"
+    }
+]
